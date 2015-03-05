@@ -65,7 +65,7 @@ $this->pageTitle=Yii::app()->name.' - หน้าหลัก';
 	
 			
 			
-			<font size="4" color="800080"><center><MARQUEE behavior=alternate direction=left scrollAmount=3 width="4%"><font face=Webdings>3</font></MARQUEE><MARQUEE scrollAmount=3 direction=left width="4%">| | |</MARQUEE>อุทยานแห่งชาติภาคใต้<MARQUEE scrollAmount=3 direction=right width="4%">| | |</MARQUEE><MARQUEE behavior=alternate direction=right scrollAmount=3 width="4%"><font face=Webdings>4</font></MARQUEE></center></font>
+			<font size="4" color="800080"><center><MARQUEE behavior=alternate direction=left scrollAmount=3 width="4%"><font face=Webdings>3</font></MARQUEE><MARQUEE scrollAmount=3 direction=left width="4%">| | |</MARQUEE>...อุทยานแห่งชาติ...ภาคใต้<MARQUEE scrollAmount=3 direction=right width="4%">| | |</MARQUEE><MARQUEE behavior=alternate direction=right scrollAmount=3 width="4%"><font face=Webdings>4</font></MARQUEE></center></font>
 		</header>
 			</center>
 
